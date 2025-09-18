@@ -1,1 +1,1 @@
-# První script na debug
+# První script na debug.
